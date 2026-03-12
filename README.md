@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Awad</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;PCB+Design+Enthusiast;IoT+Developer;Linux+User;Circuit+Designer&center=true&width=500&height=50">
+</p>
 
 <p align="center">
 💡 Passionate about <b>PCB Designing, Circuit Designing, System Architecture, Computer Networks, Embedded Systems, and IoT</b>
@@ -18,6 +21,16 @@
 - 🛠️ Designing **PCBs, circuits, and IoT systems**
 - 🐧 Comfortable navigating **Linux systems**
 - ⚡ Fun fact: *Most bugs disappear after adding a missing ground connection*
+
+## 🧰 Skills
+
+![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-Operating%20System-black?style=for-the-badge&logo=linux)
+![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge&logo=kicad)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
+![IoT](https://img.shields.io/badge/IoT-Embedded%20Systems-green?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Computer-Networking-orange?style=for-the-badge)
 
 ---
 
