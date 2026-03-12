@@ -85,8 +85,3 @@
 ---
 
 ⭐ *“Good circuits work. Great circuits work even after you forget why you designed them.”*
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
-
