@@ -85,3 +85,7 @@
 ---
 
 ⭐ *“Good circuits work. Great circuits work even after you forget why you designed them.”*
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
