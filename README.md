@@ -13,7 +13,13 @@
 
 </div>
 
----
+
+<div align="center">
+
+`━━━⊕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊕━━━`
+
+</div>
+
 
 ## 🧑‍💻 About Me
 
@@ -27,7 +33,13 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
 - 🐧 Comfortable working in **Linux** environments
 - ⚡ Fun fact: *Most bugs vanish after adding a missing ground connection*
 
----
+
+<div align="center">
+
+`━━━⊕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊕━━━`
+
+</div>
+
 
 ## ⚡ Circuit Signature
 
@@ -51,7 +63,13 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
          GND            └────────────────────────────────────────────────┘
 ```
 
----
+
+<div align="center">
+
+`━━━⊕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊕━━━`
+
+</div>
+
 
 ## 🛠️ Tech Stack & Skills
 
@@ -82,7 +100,47 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
 ![Network Architecture](https://img.shields.io/badge/Network%20Architecture-Design%20%26%20Planning-0052CC?style=for-the-badge&logo=icloud&logoColor=white)
 ![Sysadmin](https://img.shields.io/badge/System%20%26%20Network-Administration-1E3A5F?style=for-the-badge&logo=linux&logoColor=white)
 
----
+<div align="center">
+
+`━━━⊕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊕━━━`
+
+</div>
+
+## 📟 Signal Monitor
+
+```
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  OSCILLOSCOPE  ░░░░░░░░░░░░░░░░░░░  CH1: 3.3V  ░░  TIME: 1ms/div  │
+  ├──────┬──────────────────────────────────────────────────────────────┤
+  │      │                                                              │
+3.3V ────┤      ╭────╮          ╭────╮          ╭────╮      PCB_CLK   │
+  │      │      │    │          │    │          │    │                  │
+  │      │      │    │          │    │          │    │                  │
+ 0V  ────┼──────╯    ╰──────────╯    ╰──────────╯    ╰──────────────── │
+  │      │                                                              │
+  ├──────┴──────────────────────────────────────────────────────────────┤
+  │      │                                                              │
+3.3V ────┤  ╭──╮  ╭──╮  ╭──╮  ╭──╮  ╭──╮  ╭──╮  ╭──╮  ╭──╮  ESP_TX  │
+  │      │  │  │  │  │  │  │  │  │  │  │  │  │  │  │  │  │           │
+ 0V  ────┼──╯  ╰──╯  ╰──╯  ╰──╯  ╰──╯  ╰──╯  ╰──╯  ╰──╯  ╰───────── │
+  │      │                                                              │
+  ├──────┴──────────────────────────────────────────────────────────────┤
+  │      │                                                              │
+3.3V ────┤ ╭╮ ╭─╮ ╭──╮ ╭───╮ ╭────╮  ╭───╮ ╭──╮ ╭─╮ ╭╮   IoT_DATA  │
+  │      │ ││ │ │ │  │ │   │ │    │  │   │ │  │ │ │ ││              │
+ 0V  ────┼─╯╰─╯ ╰─╯  ╰─╯   ╰─╯    ╰──╯   ╰─╯  ╰─╯ ╰─╯╰──────────── │
+  │      │                                                              │
+  ├──────┴──────────────────────────────────────────────────────────────┤
+  │  TRIGGER: AUTO  ░░  SAMPLE: 1GSa/s  ░░  [ AWAD ZUHAIR — EE ]  ⚡  │
+  └─────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+`━━━⊕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊕━━━`
+
+</div>
+
 
 
 ## 🧠 Currently Exploring
@@ -94,7 +152,13 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
 | 📡 IoT | End-to-end system design, protocols (MQTT, BLE, LoRa) |
 | 🌐 Networking | Computer network architecture, protocol fundamentals |
 
----
+
+<div align="center">
+
+`━━━⊕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊕━━━`
+
+</div>
+
 
 ## 🐍 Contribution Snake
 
@@ -106,7 +170,13 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
   </picture>
 </div>
 
----
+
+<div align="center">
+
+`━━━⊕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊕━━━`
+
+</div>
+
 
 ## 🤝 Let's Connect
 
@@ -119,7 +189,13 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
 
 </div>
 
----
+
+<div align="center">
+
+`━━━⊕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊕━━━`
+
+</div>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
