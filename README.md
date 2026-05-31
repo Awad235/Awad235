@@ -38,6 +38,12 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Firmware-2ea44f?style=for-the-badge&logo=arm&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-Systems-8B5CF6?style=for-the-badge&logo=mqtt&logoColor=white)
 
+### 🤖 Microcontrollers & Platforms
+![Arduino](https://img.shields.io/badge/Arduino-UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-WiFi%20%26%20BLE-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-ESP8266-00979D?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-SBC%20%26%20Linux-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 ### 💻 Programming
 ![C](https://img.shields.io/badge/C-Systems%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Scripting%20%26%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
