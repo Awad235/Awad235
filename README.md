@@ -48,27 +48,12 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🌐 Networking
-![Networking](https://img.shields.io/badge/Computer%20Networking-Fundamentals-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol%20Suite-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Network Architecture](https://img.shields.io/badge/Network%20Architecture-Design%20%26%20Planning-0052CC?style=for-the-badge&logo=icloud&logoColor=white)
+![Sysadmin](https://img.shields.io/badge/System%20%26%20Network-Administration-1E3A5F?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Awad235&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0cfdf&border_radius=10" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awad235&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0cfdf&border_radius=10" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Awad235&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&border_radius=10" width="70%"/>
-
-</div>
-
----
 
 ## 🧠 Currently Exploring
 
