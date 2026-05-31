@@ -1,87 +1,99 @@
-<h1 align="center">Hi 👋, I'm Awad</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;PCB+Design+Enthusiast;IoT+Developer;Linux+User;Circuit+Designer&center=true&width=500&height=50">
-</p>
+<div align="center">
 
-<p align="center">
-💡 Passionate about <b>PCB Designing, Circuit Designing, System Architecture, Computer Networks, Embedded Systems, and IoT</b>
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Awad%20Zuhair&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20PCB%20Design%20%7C%20IoT&descColor=a0cfdf&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p align="center">
-🔧 Turning coffee into circuits and ideas into working hardware <br>
-⚡ Occasionally debugging why the circuit worked yesterday but not today
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Embedded+Systems+Engineer;PCB+%26+Circuit+Designer;IoT+Systems+Developer;Linux+Enthusiast;Turning+ideas+into+circuits+%E2%9A%A1" alt="Typing SVG" />
 
----
+<!-- Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-awadzuhair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awadzuhair)
+[![GitHub](https://img.shields.io/badge/GitHub-Awad235-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Awad235)
+![Profile Views](https://komarev.com/ghpvc/?username=Awad235&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 
-## 🚀 About Me
-
-- 🔭 Currently working on **Embedded Systems & PCB Design Projects**
-- 🌱 Learning more about **System Architecture and Computer Networks**
-- 🛠️ Designing **PCBs, circuits, and IoT systems**
-- 🐧 Comfortable navigating **Linux systems**
-- ⚡ Fun fact: *Most bugs disappear after adding a missing ground connection*
-
-## 🧰 Skills
-
-![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-Operating%20System-black?style=for-the-badge&logo=linux)
-![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge&logo=kicad)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
-![IoT](https://img.shields.io/badge/IoT-Embedded%20Systems-green?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Computer-Networking-orange?style=for-the-badge)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### Hardware / Embedded
-- PCB Design
-- Circuit Design
-- KiCad
-- Embedded Systems
-- IoT
+> *"Good circuits work. Great circuits work even after you forget why you designed them."*
 
-### Programming
-- C
-- Python
+Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedded Systems**, **PCB Design**, and **IoT**. I thrive at the intersection of hardware and software, where low-level code meets real-world circuits.
 
-### Software & Systems
-- Git & GitHub
-- Linux (file & folder navigation, shell commands, and basic system operations)
-
-### Networking
-- Basic networking concepts
-- Familiar with system networking commands used for troubleshooting and navigation
+- 🔭 Currently building **Embedded Systems & PCB Design Projects**
+- 🌱 Deepening knowledge in **System Architecture** and **Computer Networks**
+- 🛠️ Designing **PCBs, circuits, and IoT systems** from scratch
+- 🐧 Comfortable working in **Linux** environments
+- ⚡ Fun fact: *Most bugs vanish after adding a missing ground connection*
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Skills
 
-![Awad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+### ⚙️ Hardware & Embedded
+![PCB Design](https://img.shields.io/badge/PCB%20Design-Expert-00d4ff?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-PCB%20EDA-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/Circuit%20Design-Hardware-ff6b35?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Firmware-2ea44f?style=for-the-badge&logo=arm&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Systems-8B5CF6?style=for-the-badge&logo=mqtt&logoColor=white)
+
+### 💻 Programming
+![C](https://img.shields.io/badge/C-Systems%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Scripting%20%26%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🖥️ Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌐 Networking
+![Networking](https://img.shields.io/badge/Computer%20Networking-Fundamentals-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Awad235&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0cfdf&border_radius=10" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awad235&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0cfdf&border_radius=10" height="165"/>
 
-## 📈 Most Used Languages
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Awad235&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&border_radius=10" width="70%"/>
+
+</div>
 
 ---
 
 ## 🧠 Currently Exploring
 
-- Advanced PCB Layout Techniques
-- Embedded System Optimization
-- IoT System Design
-- Computer Network Architecture
+| Area | Focus |
+|------|-------|
+| 🖨️ PCB Design | Advanced layout techniques, signal integrity, high-density routing |
+| 💡 Embedded Systems | Firmware optimization, RTOS concepts, low-power design |
+| 📡 IoT | End-to-end system design, protocols (MQTT, BLE, LoRa) |
+| 🌐 Networking | Computer network architecture, protocol fundamentals |
 
 ---
 
-⭐ *“Good circuits work. Great circuits work even after you forget why you designed them.”*
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awadzuhair)
+[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Awad235)
+
+*Open to collaborating on embedded systems, PCB design, and IoT projects!*
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+</div>
