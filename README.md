@@ -29,6 +29,30 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
 
 ---
 
+## ⚡ Circuit Signature
+
+```
+                        ┌────────────────────────────────────────────────┐
+   ┌──[VCC 3.3V]──┐     │                                                │
+   │              │     │   ○──[R1 10kΩ]──┬──[R2 4.7kΩ]──○             │
+  [C1]           [L1]   │                 │                              │
+   │              │     │                [C2]           ┌─[LED]─[R3]─┐  │
+   └──────────────┘     │                 │             │             │  │
+          │             │   GND──○────────┴─────────────┘            │  │
+         GND            │                                            GND │
+                        │                                                │
+                        │    ╔══════════════════════════════════╗        │
+   ┌──[ESP32]──┐        │    ║   ⚡  A W A D   Z U H A I R  ⚡  ║        │
+   │  TX ──── RX│       │    ║   Embedded Systems & PCB Design  ║        │
+   │  SDA─[I2C]─┤       │    ╚══════════════════════════════════╝        │
+   │  SCL───────┤       │                                                │
+   └────────────┘       │   ○──[MCU]──[SENSOR]──[PCB]──[IoT]──○        │
+          │             │                                                │
+         GND            └────────────────────────────────────────────────┘
+```
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### ⚙️ Hardware & Embedded
@@ -69,6 +93,18 @@ Hi there! I'm **Awad** — a hardware-focused engineer with a love for **Embedde
 | 💡 Embedded Systems | Firmware optimization, RTOS concepts, low-power design |
 | 📡 IoT | End-to-end system design, protocols (MQTT, BLE, LoRa) |
 | 🌐 Networking | Computer network architecture, protocol fundamentals |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awad235/Awad235/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awad235/Awad235/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Awad235/Awad235/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
